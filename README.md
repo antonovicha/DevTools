@@ -6,3 +6,4 @@ List of development tools for different platforms
 |Text editor|notepad++|???|
 |||wine?|
 |||notepadqq?|
+|Image editor|Paint.NET|???<br>wine?|
