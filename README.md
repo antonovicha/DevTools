@@ -1,9 +1,8 @@
 # DevTools
-List of development tools for different platforms
+List of essential development tools for different platforms
 
 |Purpose|Win|Linux|
 |-------|---|-----|
-|Text editor|notepad++|???|
-|||wine?|
-|||notepadqq?|
+|Text editor|notepad++|???<br>wine?<br>notepadqq?|
 |Image editor|Paint.NET|???<br>wine?|
+|File manager|FreeCommander|???|
